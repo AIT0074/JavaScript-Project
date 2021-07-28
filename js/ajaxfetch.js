@@ -13,9 +13,8 @@ xhr.onload=function(){
     }
   }    
   else{
-      console.log("Eroor is ther");
+      console.log("Eroor is there");
       console.log(this.status);
   }
 }
 xhr.send();
-
