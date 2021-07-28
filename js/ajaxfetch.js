@@ -13,7 +13,7 @@ xhr.onload=function(){
     }
   }    
   else{
-      console.log("Error");
+      console.log("Error No 1");
       console.log(this.status);
   }
 }
