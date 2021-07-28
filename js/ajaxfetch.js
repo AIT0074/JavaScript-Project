@@ -1,4 +1,4 @@
-console.log("Fetch News from api");
+console.log("Fetch News froi");
 
 let xhr=new XMLHttpRequest();
 xhr.open('GET','https://webhose.io/filterWebContent?token=e8807253-cb8a-4a5f-a43d-c5b8d872173d&format=json&sort=crawled&q=%22stock%20market%22%20language%3Aenglish',true);
